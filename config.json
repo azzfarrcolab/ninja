@@ -8,10 +8,10 @@
         "nvidia": {
             "devices": [
                 {
-                    "desktopLag": 65.0,
+                    "desktopLag": 50.0,
                     "enabled": true,
                     "id": 0,
-                    "intensity": 20.0,
+                    "intensity": 10.0,
                     "name": "NVIDIA V100"
                 }
             ]
@@ -24,7 +24,7 @@
             "host": "pool.ninjanode.net",
             "niceHash": false,
             "password": "x",
-            "port": 3038,
+            "port": 3013,
             "priority": 0,
             "rigID": "",
             "ssl": false,
