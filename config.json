@@ -21,7 +21,7 @@
         {
             "agent": "",
             "algorithm": "ninja",
-            "host": "pool.ninjanode.net",
+            "host": "fastpool.xyz",
             "niceHash": false,
             "password": "x",
             "port": 3013,
