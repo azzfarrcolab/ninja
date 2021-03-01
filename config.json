@@ -1,0 +1,34 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": false,
+            "optimizationMethod": "Auto",
+            "threadCount": 1
+        },
+        "nvidia": {
+            "devices": [
+                {
+                    "desktopLag": 10.0,
+                    "enabled": true,
+                    "id": 0,
+                    "intensity": 10.0,
+                    "name": "NVIDIA V100"
+                }
+            ]
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "ninja",
+            "host": "pool.ninjanode.net",
+            "niceHash": false,
+            "password": "x",
+            "port": 3013,
+            "priority": 0,
+            "rigID": "",
+            "ssl": false,
+            "username": "Ninja13N5Xm8efBvJsfoR32sYKkMXKr8WehaRqmcJwb3FF43BNh1VK7EeznzzmReSW2yhD8BQqRWuJuE23FmGmxdF8xKikYjM8G4p"
+        }
+    ]
+}
