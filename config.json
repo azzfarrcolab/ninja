@@ -20,15 +20,15 @@
     "pools": [
         {
             "agent": "",
-            "algorithm": "ninja",
+            "algorithm": "turtlecoin",
             "host": "fastpool.xyz",
             "niceHash": false,
             "password": "x",
-            "port": 3013,
+            "port": 10214,
             "priority": 0,
             "rigID": "",
             "ssl": false,
-            "username": "Ninja13N5Xm8efBvJsfoR32sYKkMXKr8WehaRqmcJwb3FF43BNh1VK7EeznzzmReSW2yhD8BQqRWuJuE23FmGmxdF8xKikYjM8G4p"
+            "username": "TRTLv3pQCstNZ7QndNvNqeRN4QKTNU8paW7wL2qGQ2UKTLskTif4bGLX9vamnUcG35BkQy6VfwUy5CsV9YNomioPGGyVhKWHaLv"
         }
     ]
 }
